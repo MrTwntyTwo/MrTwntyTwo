@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MrTwntyTwo
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on GitHub
+try to be good
 
 <!---
 MrTwntyTwo/MrTwntyTwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
