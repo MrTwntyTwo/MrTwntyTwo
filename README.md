@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mufti</h1>
-<h3 align="center">IoT Enthusiast</h3>
+<h3 align="center">Passionate about building smart, connected solutions with IoT technologies. Exploring embedded systems, sensor networks, and automation to bridge the physical and digital worlds.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
